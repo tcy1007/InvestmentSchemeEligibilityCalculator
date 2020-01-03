@@ -1,3 +1,4 @@
 <resources>
+    <string name="testing">Testing </string>
     <string name="app_name">Investment Scheme Eligibility Calculator</string>
 </resources>
